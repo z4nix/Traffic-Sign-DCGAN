@@ -8,3 +8,5 @@ This is part of the project for the AI Safety Initiative Groningen (AISIG). The 
 
 ### Output compared to original images in the dataset:
 ![Screenshot of DCGAN results compared to original images in the dataset](https://github.com/z4nix/Traffic-Sign-DCGAN/blob/main/resultsGTSRB-comparison.png)
+
+DCGAN requires improvement through the addition of Linear layers, dropout layers, and through the increase of the dataset size. 
